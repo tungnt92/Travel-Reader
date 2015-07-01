@@ -1,0 +1,45 @@
+﻿{"Items": [
+    {
+        "Type": "Url",
+        "Title": "SHTP-TRAINING",
+        "Icon": "Assets/Item-53e88f6f-42e4-4d2c-ab41-a8d568894434.png",
+        "Target": "bingmaps:?cp=10.855064~106.785569&lvl=17"
+    },
+    {
+        "Type": "Url",
+        "Title": "Địa chỉ: Lô E1 – Khu Công nghệ cao, Xa lộ Hà Nội, Phường Hiệp Phú, Quận 9, TP.HCM",
+        "Icon": "Assets/location.png",
+        "Target": "bingmaps:?cp=10.855064~106.785569&lvl=17"
+    },
+    {
+        "Type": "Phone",
+        "Title": "Điện thoại: (84-8) 39.322.230 (17) ",
+        "Icon": "Assets/phoneicon.png",
+        "Target": "tel:(84-8) 39.322.230 (17)"
+    },
+    {
+        "Type": "Url",
+        "Title": "Cung cấp thông tin mới nhất về:\n   Các tour du lịch.\n   Các chương trình khuyến mãi.",
+        "Icon": "Assets/Airplane.png",
+        "Target": ""
+    },
+    {
+        "Type": "Url",
+        "Title": "Nguồn:\n  www.vietravel.com.vn",
+        "Icon": "Assets/contenticon.png",
+        "Target": "http://www.vietravel.com.vn"
+    },
+    {
+        "Type": "Url",
+        "Title": "Tác giả: Duy Thanh",
+        "Icon": "Assets/User-Monitor.png",
+        "Target": ""
+    },
+    {
+        "Type": "Url",
+        "Title": "Phiên bản: 1.0.0",
+        "Icon": "Assets/Download.png",
+        "Target": ""
+    }
+  ]
+}

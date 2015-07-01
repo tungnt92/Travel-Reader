@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NGUYENTUNG</Machine>
+    <WindowsUser>tungnt92</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>83127bd6-2813-4e96-af73-99a00664eba5</PackageIdentityName>
+    <IntermediateOutputPath>H:\AppTourDuLich\AppTourDuLich\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\AppTourDuLich\AppTourDuLich\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.exe">
+      <PackagePath>ThongTinDuLich.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\Airplane.png">
+      <PackagePath>Assets\Airplane.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\contenticon.png">
+      <PackagePath>Assets\contenticon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\Download.png">
+      <PackagePath>Assets\Download.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\Entry - 03.png">
+      <PackagePath>Assets\Entry - 03.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\Item-53e88f6f-42e4-4d2c-ab41-a8d568894434.png">
+      <PackagePath>Assets\Item-53e88f6f-42e4-4d2c-ab41-a8d568894434.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\location.png">
+      <PackagePath>Assets\location.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\phoneicon.png">
+      <PackagePath>Assets\phoneicon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\HubBackground.theme-dark.png">
+      <PackagePath>Assets\HubBackground.theme-dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\HubBackground.theme-light.png">
+      <PackagePath>Assets\HubBackground.theme-light.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\sourceicon.png">
+      <PackagePath>Assets\sourceicon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\SplashScreenImage.scale-240.png">
+      <PackagePath>Assets\SplashScreenImage.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\User-Monitor.png">
+      <PackagePath>Assets\User-Monitor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\DataModel\AboutUs.json">
+      <PackagePath>DataModel\AboutUs.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\bin\Debug\DetailPage.xbf">
+      <PackagePath>DetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\bin\Debug\Themes\Generic.xbf">
+      <PackagePath>Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.xr.xml">
+      <PackagePath>ThongTinDuLich.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\AppTourDuLich\AppTourDuLich\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

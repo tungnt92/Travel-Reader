@@ -1,0 +1,188 @@
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\bin\Debug\App.xbf
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\bin\Debug\HubPage.xbf
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\bin\Debug\ItemPage.xbf
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\bin\Debug\resources.pri
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\bin\Debug\AppxManifest.xml
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\bin\Debug\AppTourDuLich.build.appxrecipe
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\App.g.i.cs
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\App.g.cs
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.g.i.cs
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.g.cs
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.g.i.cs
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.g.cs
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\XamlTypeInfo.g.cs
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\App.xaml
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.xaml
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.xaml
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\App.xbf
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.xbf
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.xbf
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\XamlSaveStateFile.xml
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\priconfig.xml
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\priconfig.xml.intermediate
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\layout.resfiles
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\layout.resfiles.intermediate
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\resources.resfiles
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\resources.resfiles.intermediate
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\pri.resfiles
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\pri.resfiles.intermediate
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\qualifiers.txt
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\qualifiers.txt.intermediate
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\duythanh\documents\visual studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\ProjectArchitectures.txt
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.g.i.cs
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.g.cs
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.xaml
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\bin\Debug\Themes\Generic.xbf
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.xbf
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\bin\Debug\DetailPage.xbf
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.g.i.cs
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.g.cs
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.xaml
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.xbf
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.xr.xml
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.exe
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.pdb
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\ThongTinDuLich.exe
+C:\Users\duythanh\Documents\Visual Studio 2013\Projects\AppTourDuLich\AppTourDuLich\obj\Debug\ThongTinDuLich.pdb
+F:\AppTourDuLich\AppTourDuLich\bin\Debug\App.xbf
+F:\AppTourDuLich\AppTourDuLich\bin\Debug\DetailPage.xbf
+F:\AppTourDuLich\AppTourDuLich\bin\Debug\HubPage.xbf
+F:\AppTourDuLich\AppTourDuLich\bin\Debug\ItemPage.xbf
+F:\AppTourDuLich\AppTourDuLich\bin\Debug\Themes\Generic.xbf
+F:\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.xr.xml
+F:\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.exe
+F:\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.pdb
+F:\AppTourDuLich\AppTourDuLich\bin\Debug\resources.pri
+F:\AppTourDuLich\AppTourDuLich\bin\Debug\AppxManifest.xml
+F:\AppTourDuLich\AppTourDuLich\bin\Debug\AppTourDuLich.build.appxrecipe
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\App.g.i.cs
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\App.g.cs
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.g.i.cs
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.g.cs
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.g.i.cs
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.g.cs
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.g.i.cs
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.g.cs
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.g.i.cs
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.g.cs
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\XamlTypeInfo.g.cs
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\App.xaml
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.xaml
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.xaml
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.xaml
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.xaml
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\App.xbf
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.xbf
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.xbf
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.xbf
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.xbf
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\XamlSaveStateFile.xml
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\ThongTinDuLich.exe
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\ThongTinDuLich.pdb
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\priconfig.xml
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\priconfig.xml.intermediate
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\layout.resfiles
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\layout.resfiles.intermediate
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\resources.resfiles
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\resources.resfiles.intermediate
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\pri.resfiles
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\pri.resfiles.intermediate
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\qualifiers.txt
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\qualifiers.txt.intermediate
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\AppTourDuLich\AppTourDuLich\obj\Debug\ProjectArchitectures.txt
+D:\AppTourDuLich\AppTourDuLich\bin\Debug\App.xbf
+D:\AppTourDuLich\AppTourDuLich\bin\Debug\DetailPage.xbf
+D:\AppTourDuLich\AppTourDuLich\bin\Debug\HubPage.xbf
+D:\AppTourDuLich\AppTourDuLich\bin\Debug\ItemPage.xbf
+D:\AppTourDuLich\AppTourDuLich\bin\Debug\Themes\Generic.xbf
+D:\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.xr.xml
+D:\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.exe
+D:\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.pdb
+D:\AppTourDuLich\AppTourDuLich\bin\Debug\resources.pri
+D:\AppTourDuLich\AppTourDuLich\bin\Debug\AppxManifest.xml
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\App.g.i.cs
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\App.g.cs
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.g.i.cs
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.g.cs
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.g.i.cs
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.g.cs
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.g.i.cs
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.g.cs
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.g.i.cs
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.g.cs
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\XamlTypeInfo.g.cs
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\App.xaml
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.xaml
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.xaml
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.xaml
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.xaml
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\App.xbf
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.xbf
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.xbf
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.xbf
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.xbf
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\XamlSaveStateFile.xml
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\ThongTinDuLich.exe
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\ThongTinDuLich.pdb
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\priconfig.xml
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\priconfig.xml.intermediate
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\layout.resfiles
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\layout.resfiles.intermediate
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\resources.resfiles
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\resources.resfiles.intermediate
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\pri.resfiles
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\pri.resfiles.intermediate
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\qualifiers.txt
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\qualifiers.txt.intermediate
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\AppTourDuLich\AppTourDuLich\obj\Debug\ProjectArchitectures.txt
+D:\AppTourDuLich\AppTourDuLich\bin\Debug\AppTourDuLich.build.appxrecipe
+H:\AppTourDuLich\AppTourDuLich\bin\Debug\App.xbf
+H:\AppTourDuLich\AppTourDuLich\bin\Debug\DetailPage.xbf
+H:\AppTourDuLich\AppTourDuLich\bin\Debug\HubPage.xbf
+H:\AppTourDuLich\AppTourDuLich\bin\Debug\ItemPage.xbf
+H:\AppTourDuLich\AppTourDuLich\bin\Debug\Themes\Generic.xbf
+H:\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.xr.xml
+H:\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.exe
+H:\AppTourDuLich\AppTourDuLich\bin\Debug\ThongTinDuLich.pdb
+H:\AppTourDuLich\AppTourDuLich\bin\Debug\resources.pri
+H:\AppTourDuLich\AppTourDuLich\bin\Debug\AppxManifest.xml
+H:\AppTourDuLich\AppTourDuLich\bin\Debug\AppTourDuLich.build.appxrecipe
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\App.g.i.cs
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\App.g.cs
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.g.i.cs
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.g.cs
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.g.i.cs
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.g.cs
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.g.i.cs
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.g.cs
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.g.i.cs
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.g.cs
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\XamlTypeInfo.g.cs
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\App.xaml
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.xaml
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.xaml
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.xaml
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.xaml
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\App.xbf
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\DetailPage.xbf
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\HubPage.xbf
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\ItemPage.xbf
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\Themes\Generic.xbf
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\XamlSaveStateFile.xml
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\ThongTinDuLich.exe
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\ThongTinDuLich.pdb
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\priconfig.xml
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\priconfig.xml.intermediate
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\layout.resfiles
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\layout.resfiles.intermediate
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\resources.resfiles
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\resources.resfiles.intermediate
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\pri.resfiles
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\pri.resfiles.intermediate
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\qualifiers.txt
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\qualifiers.txt.intermediate
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+H:\AppTourDuLich\AppTourDuLich\obj\Debug\ProjectArchitectures.txt
